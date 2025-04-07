@@ -1,0 +1,1 @@
+This project focuses on analyzing mobile sales data using Python and Pandas. The goal is to clean the dataset, handle missing values, remove duplicates, standardize column formats, and perform exploratory data analysis (EDA) to gain insights into sales trends.
